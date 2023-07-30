@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Learn\Extention\ExtetionTask\ExtetionTask\bin\Debug\net6.0\ExtetionTask.exe
+C:\Users\user\Desktop\Learn\Extention\ExtetionTask\ExtetionTask\bin\Debug\net6.0\ExtetionTask.deps.json
+C:\Users\user\Desktop\Learn\Extention\ExtetionTask\ExtetionTask\bin\Debug\net6.0\ExtetionTask.runtimeconfig.json
+C:\Users\user\Desktop\Learn\Extention\ExtetionTask\ExtetionTask\bin\Debug\net6.0\ExtetionTask.dll
+C:\Users\user\Desktop\Learn\Extention\ExtetionTask\ExtetionTask\bin\Debug\net6.0\ExtetionTask.pdb
+C:\Users\user\Desktop\Learn\Extention\ExtetionTask\ExtetionTask\obj\Debug\net6.0\ExtetionTask.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Learn\Extention\ExtetionTask\ExtetionTask\obj\Debug\net6.0\ExtetionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Learn\Extention\ExtetionTask\ExtetionTask\obj\Debug\net6.0\ExtetionTask.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Learn\Extention\ExtetionTask\ExtetionTask\obj\Debug\net6.0\ExtetionTask.AssemblyInfo.cs
+C:\Users\user\Desktop\Learn\Extention\ExtetionTask\ExtetionTask\obj\Debug\net6.0\ExtetionTask.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Learn\Extention\ExtetionTask\ExtetionTask\obj\Debug\net6.0\ExtetionTask.dll
+C:\Users\user\Desktop\Learn\Extention\ExtetionTask\ExtetionTask\obj\Debug\net6.0\refint\ExtetionTask.dll
+C:\Users\user\Desktop\Learn\Extention\ExtetionTask\ExtetionTask\obj\Debug\net6.0\ExtetionTask.pdb
+C:\Users\user\Desktop\Learn\Extention\ExtetionTask\ExtetionTask\obj\Debug\net6.0\ExtetionTask.genruntimeconfig.cache
+C:\Users\user\Desktop\Learn\Extention\ExtetionTask\ExtetionTask\obj\Debug\net6.0\ref\ExtetionTask.dll

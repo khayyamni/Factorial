@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#\ClassTasks\Static, Extention, Struct, Nullable, Enum\Static-Extention-Struct\Static-Extention-Struct\bin\Debug\net6.0\Static-Extention-Struct.exe
+C:\Users\user\Desktop\C#\ClassTasks\Static, Extention, Struct, Nullable, Enum\Static-Extention-Struct\Static-Extention-Struct\bin\Debug\net6.0\Static-Extention-Struct.deps.json
+C:\Users\user\Desktop\C#\ClassTasks\Static, Extention, Struct, Nullable, Enum\Static-Extention-Struct\Static-Extention-Struct\bin\Debug\net6.0\Static-Extention-Struct.runtimeconfig.json
+C:\Users\user\Desktop\C#\ClassTasks\Static, Extention, Struct, Nullable, Enum\Static-Extention-Struct\Static-Extention-Struct\bin\Debug\net6.0\Static-Extention-Struct.dll
+C:\Users\user\Desktop\C#\ClassTasks\Static, Extention, Struct, Nullable, Enum\Static-Extention-Struct\Static-Extention-Struct\bin\Debug\net6.0\Static-Extention-Struct.pdb
+C:\Users\user\Desktop\C#\ClassTasks\Static, Extention, Struct, Nullable, Enum\Static-Extention-Struct\Static-Extention-Struct\obj\Debug\net6.0\Static-Extention-Struct.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\ClassTasks\Static, Extention, Struct, Nullable, Enum\Static-Extention-Struct\Static-Extention-Struct\obj\Debug\net6.0\Static-Extention-Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\ClassTasks\Static, Extention, Struct, Nullable, Enum\Static-Extention-Struct\Static-Extention-Struct\obj\Debug\net6.0\Static-Extention-Struct.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\ClassTasks\Static, Extention, Struct, Nullable, Enum\Static-Extention-Struct\Static-Extention-Struct\obj\Debug\net6.0\Static-Extention-Struct.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\ClassTasks\Static, Extention, Struct, Nullable, Enum\Static-Extention-Struct\Static-Extention-Struct\obj\Debug\net6.0\Static-Extention-Struct.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\ClassTasks\Static, Extention, Struct, Nullable, Enum\Static-Extention-Struct\Static-Extention-Struct\obj\Debug\net6.0\Static-Extention-Struct.dll
+C:\Users\user\Desktop\C#\ClassTasks\Static, Extention, Struct, Nullable, Enum\Static-Extention-Struct\Static-Extention-Struct\obj\Debug\net6.0\refint\Static-Extention-Struct.dll
+C:\Users\user\Desktop\C#\ClassTasks\Static, Extention, Struct, Nullable, Enum\Static-Extention-Struct\Static-Extention-Struct\obj\Debug\net6.0\Static-Extention-Struct.pdb
+C:\Users\user\Desktop\C#\ClassTasks\Static, Extention, Struct, Nullable, Enum\Static-Extention-Struct\Static-Extention-Struct\obj\Debug\net6.0\Static-Extention-Struct.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\ClassTasks\Static, Extention, Struct, Nullable, Enum\Static-Extention-Struct\Static-Extention-Struct\obj\Debug\net6.0\ref\Static-Extention-Struct.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Learn\Extention\Extention\bin\Debug\net6.0\Extention.exe
+C:\Users\user\Desktop\Learn\Extention\Extention\bin\Debug\net6.0\Extention.deps.json
+C:\Users\user\Desktop\Learn\Extention\Extention\bin\Debug\net6.0\Extention.runtimeconfig.json
+C:\Users\user\Desktop\Learn\Extention\Extention\bin\Debug\net6.0\Extention.dll
+C:\Users\user\Desktop\Learn\Extention\Extention\bin\Debug\net6.0\Extention.pdb
+C:\Users\user\Desktop\Learn\Extention\Extention\obj\Debug\net6.0\Extention.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Learn\Extention\Extention\obj\Debug\net6.0\Extention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Learn\Extention\Extention\obj\Debug\net6.0\Extention.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Learn\Extention\Extention\obj\Debug\net6.0\Extention.AssemblyInfo.cs
+C:\Users\user\Desktop\Learn\Extention\Extention\obj\Debug\net6.0\Extention.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Learn\Extention\Extention\obj\Debug\net6.0\Extention.dll
+C:\Users\user\Desktop\Learn\Extention\Extention\obj\Debug\net6.0\refint\Extention.dll
+C:\Users\user\Desktop\Learn\Extention\Extention\obj\Debug\net6.0\Extention.pdb
+C:\Users\user\Desktop\Learn\Extention\Extention\obj\Debug\net6.0\Extention.genruntimeconfig.cache
+C:\Users\user\Desktop\Learn\Extention\Extention\obj\Debug\net6.0\ref\Extention.dll
